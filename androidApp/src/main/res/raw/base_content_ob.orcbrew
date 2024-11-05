@@ -4922,5 +4922,4 @@
     :link "https://en.wikipedia.org/wiki/Dart_(missile)",
     :thrown true,
     :damage-die 4,
-    :range {:max 60, :min 20}}}
-}}
+    :range {:max 60, :min 20}}}}}
